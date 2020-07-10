@@ -1,9 +1,8 @@
 # weatherapp
 A classic UI app using open sourse API to detect weather at your current location and also provides a Option to check weather at different locations.
 
-## Getting Started
+https://github.com/Bhavesh114/My-Weather-App/blob/master/climaapp%20-%201.jpeg
 
-This project is a starting point for a Flutter application.
+https://github.com/Bhavesh114/My-Weather-App/blob/master/climaapp%20-%202.jpeg
 
-A few resources to get you started if this is your first Flutter project:
-
+https://github.com/Bhavesh114/My-Weather-App/blob/master/climaapp%20-%203.jpeg
